@@ -29,6 +29,8 @@ https://www.youtube.com/channel/UCU8hn2SnqSRFTE1VOi20Qsw
 ---
 
 ## 📁 Estructura del proyecto
+
+```text
 /
 ├── index.html        # Página principal
 ├── about.html        # Información sobre el proyecto
@@ -41,6 +43,7 @@ https://www.youtube.com/channel/UCU8hn2SnqSRFTE1VOi20Qsw
 ├── sitemap.xml       # Sitemap para buscadores
 ├── robots.txt        # Reglas de rastreo
 └── README.md         # Este archivo
+
 
 ---
 
