@@ -68,12 +68,6 @@ Documentación
 
 No se utilizan frameworks ni dependencias externas.
 
----
-
-## 📢 Publicidad
-
-El sitio puede mostrar publicidad gestionada por **Google AdSense** una vez aprobado.
-El archivo `ads.txt` se añadirá cuando Google lo solicite.
 
 ---
 
