@@ -30,17 +30,17 @@ https://www.youtube.com/channel/UCU8hn2SnqSRFTE1VOi20Qsw
 
 ## 📁 Estructura del proyecto
 /
-├── index.html # Página principal
-├── about.html # Información sobre el proyecto
-├── privacy.html # Política de privacidad
-├── cookies.html # Política de cookies
-├── contact.html # Página de contacto
+├── index.html        # Página principal
+├── about.html        # Información sobre el proyecto
+├── privacy.html      # Política de privacidad
+├── cookies.html      # Política de cookies
+├── contact.html      # Página de contacto
 ├── assets/
-│ ├── style.css # Estilos del sitio
-│ └── app.js # JavaScript básico
-├── sitemap.xml # Sitemap para buscadores
-├── robots.txt # Reglas de rastreo
-└── README.md # Este archivo
+│   ├── style.css     # Estilos del sitio
+│   └── app.js        # JavaScript básico
+├── sitemap.xml       # Sitemap para buscadores
+├── robots.txt        # Reglas de rastreo
+└── README.md         # Este archivo
 
 ---
 
