@@ -13,7 +13,7 @@ además de incluir las páginas legales necesarias.
 - GitHub Pages:  
   https://kidsentertaiment.github.io/
 
-- Dominio (cuando la propagación DNS finalice):  
+- Dominio: 
   https://kidsentertaiment.com/
 
 ---
